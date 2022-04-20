@@ -1,0 +1,29 @@
+
+.topnav {
+    background-color: #06D6A0;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-style: vogue;
+  }
+
+#covid{
+    font-size:28px;
+    float: left;
+    text-decoration: none;
+
+
+}
+
+#global #provinsi #indonesia #about{
+    margin-bottom: 5px;
+}

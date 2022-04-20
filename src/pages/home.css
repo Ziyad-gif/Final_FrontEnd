@@ -1,0 +1,26 @@
+img{
+    width:360px;
+    float:right;
+
+    margin-top:50px;
+}
+.pa{    
+    margin-top:50px;
+
+    float:left;
+    max-width: 600px;
+}
+.ha3{
+    text-align: center;
+    margin-right:100px;
+}
+button{
+background-color: #06D6A0; /* Green */
+  border: none;
+  margin-left: 140px;
+  width:200px;
+  height: 40px;
+  color:white;
+  border-radius: 12px;
+ 
+}

@@ -1,0 +1,40 @@
+.footer{
+    margin-top: 1.5rem;
+    padding: 0.4rem;
+    background-color:  #06D6a0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    margin-top:300px;
+
+  }
+
+  .footer a  {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-style: vogue;
+  }
+footer{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;  
+    position:absolute;
+    margin-top:30px;
+}
+.dis{
+    position: center;
+}
+
+#indonesia #about #provinsi{
+    margin-top:10px;
+}
+

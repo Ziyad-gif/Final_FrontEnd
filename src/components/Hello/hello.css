@@ -1,0 +1,103 @@
+.ia{
+  height:300px;
+}
+.row{
+  margin-left: 200px;
+  display:flex;
+  flex-direction: row;
+  
+}
+.column{
+  display:flex;
+  flex-direction: row;
+}
+
+p{
+  text-align: center;
+  margin-left: 90px;
+}
+
+.card{
+  width: 400px;
+  margin-left: 490px;
+
+}
+h2 {
+  margin-right: 50px;
+}
+.card{
+  width:100%;
+}
+p{
+  text-align: center;
+}
+  
+h1{
+  text-align: center;
+  margin-left: 500px;
+  margin-top:20px;
+}  
+p{
+  margin-right: 200px;
+}
+#as{
+  height:200px;
+}
+#ss{
+  margin-left: 150px;
+}
+  #wwa{
+    margin-right: 600px;
+  }
+    
+
+
+
+
+
+div{
+}
+h2{
+    text-align: center;
+    color: #06D6A0;
+}
+
+P{
+    text-align: center;
+    color:#118Ab2;
+
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  .row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  
+  }
+  
